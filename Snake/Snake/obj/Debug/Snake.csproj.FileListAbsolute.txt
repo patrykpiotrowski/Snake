@@ -1,0 +1,13 @@
+c:\users\patryk\documents\visual studio 2013\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\patryk\documents\visual studio 2013\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\patryk\documents\visual studio 2013\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\patryk\documents\visual studio 2013\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\users\patryk\documents\visual studio 2013\Projects\Snake\Snake\obj\Debug\MainWindow.baml
+c:\users\patryk\documents\visual studio 2013\Projects\Snake\Snake\obj\Debug\MainWindow.g.cs
+c:\users\patryk\documents\visual studio 2013\Projects\Snake\Snake\obj\Debug\App.g.cs
+c:\users\patryk\documents\visual studio 2013\Projects\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+c:\users\patryk\documents\visual studio 2013\Projects\Snake\Snake\obj\Debug\Snake.g.resources
+c:\users\patryk\documents\visual studio 2013\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+c:\users\patryk\documents\visual studio 2013\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+c:\users\patryk\documents\visual studio 2013\Projects\Snake\Snake\obj\Debug\Snake.exe
+c:\users\patryk\documents\visual studio 2013\Projects\Snake\Snake\obj\Debug\Snake.pdb

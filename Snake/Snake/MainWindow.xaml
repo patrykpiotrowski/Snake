@@ -1,0 +1,60 @@
+﻿<Window x:Class="Snake.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Snake" Height="650" Width="850" 
+        WindowStartupLocation="CenterScreen" 
+        ResizeMode="NoResize"
+        KeyDown="Window_KeyDown"
+        Background="AliceBlue"
+        >
+    <Grid>
+        <Label Name="Menu" 
+               Content="F1 to Start in easy mode&#10;F2 to Start in normal mode&#10;F3 to Start in hard mode&#10;&#10;Don't touch F12&#10;You shall not pass =)" 
+               FontFamily="Algerian"
+               HorizontalAlignment="Center" 
+               VerticalAlignment="Center"
+               FontSize="40"
+               Foreground="DarkGreen"/>
+               
+        <Label Name="LabelSnake" 
+               Content="" 
+               Margin="0,80,0,0"
+               FontFamily="Algerian"
+               HorizontalAlignment="Center" 
+               FontSize="40"
+               Foreground="DarkGreen"/>
+
+        <Label Margin="20,560,0,0" 
+               FontWeight="ExtraBlack" 
+               FontSize="30" Content="POINTS: " 
+               FontFamily="Algerian" 
+               Foreground="DarkGreen"/>
+        <Label Name="LabelPoints"  
+               Margin="150,560,0,0" 
+               FontWeight="ExtraBlack" 
+               FontSize="30" 
+               Content="0" 
+               FontFamily="Algerian" 
+               Foreground="DarkGreen"/>
+        <Label Margin="500,560,0,0" 
+               FontWeight="ExtraBlack" 
+               FontSize="30" Content="MODE:" 
+               FontFamily="Algerian" 
+               Foreground="DarkGreen"/>
+        <Label Name ="LabelMode" 
+               Margin="610,560,0,0" 
+               FontWeight="ExtraBlack" 
+               FontSize="30" Content=" " 
+               FontFamily="Algerian" 
+               Foreground="DarkGreen"/>
+
+        <Rectangle Name="MyRectangle" 
+                   Margin="0,0,0,60" 
+                   Height="540" 
+                   Width="800" 
+                   Stroke="Black"/>
+        <Grid Name="grid" Height="600" Width="800"/>
+
+    </Grid>
+
+</Window>
